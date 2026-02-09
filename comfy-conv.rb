@@ -12,7 +12,7 @@ class ComfyConv < Formula
   desc "Interactive CLI document converter with a beautiful TUI"
   homepage "https://github.com/JUSTMEETPATEL/Comfy-Conv"
   url "https://github.com/JUSTMEETPATEL/Comfy-Conv/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "4232009a70f703cba11d337ba6efa6fc2fc8c9b3370ae6d470c40d443416a6ba"
   license "MIT"
 
   depends_on "rust" => :build
